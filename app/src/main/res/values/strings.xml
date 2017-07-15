@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reporte de fallas</string>
+    <string name="action_settings">Config</string>
+    <string name="title_activity_create">Crear reporte</string>
+    <string name="title_activity_update">Actualizar</string>
+    <string name="title_activity_prodi">Lista de pc</string>
+</resources>
